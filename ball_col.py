@@ -65,3 +65,4 @@ while True:
     ball1.setx(ball1.xcor() + ball1.dx)
     ball1.sety(ball1.ycor() + ball1.dy)
 
+# this is new line
